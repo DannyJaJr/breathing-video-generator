@@ -220,10 +220,6 @@ Alternate nostril breathing with guided left/right nostril steps.
 
 Fast `1 second inhale / 1 second exhale` energizing preset.
 
-### Euphoric Breathwork
-
-Round-based guided breathwork with repeated breaths, a hold with muscle squeeze, a soft hold, and a release phase.
-
 ## Troubleshooting
 
 ### Error: `No module named '_tkinter'`
