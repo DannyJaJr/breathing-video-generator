@@ -8,7 +8,7 @@ It can create videos with:
 - spoken breathing guidance
 - background music
 - optional logo and background image
-- multiple breathing presets such as box breathing, 4-7-8, AUM, Nadi Shodhana, Bellows Breath, and euphoric breathwork
+- multiple breathing presets such as box breathing, 4-7-8, AUM, Nadi Shodhana, Bellows Breath
 
 This app is built for local use on macOS and uses a Tkinter desktop window.
 
